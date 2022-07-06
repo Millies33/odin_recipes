@@ -7,3 +7,16 @@
 body{
   text-align: center;
 }
+
+img, h1, h2{
+  padding-top: 30px;
+}
+
+p{
+  padding-top: 30px;
+  font-size: 20px;
+}
+
+ul, ol{
+  padding-top: 20px;
+}
